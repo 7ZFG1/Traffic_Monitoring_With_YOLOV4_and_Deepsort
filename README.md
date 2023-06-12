@@ -4,7 +4,7 @@ First you have to set up darknet by following link https://github.com/AlexeyAB/d
 
 Yolov4 pre-trained models: https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 
-This repository inclueds obejct detection and tracking algoritims. There are 2 tracking algoritms. my_deepsort.py uses deep sort algorithm and tracking.py uses intersection of boxes between frames.
+This repository includes obejct detection and tracking algoritims. There are 2 tracking algoritms. my_deepsort.py uses deep sort algorithm and tracking.py uses intersection of boxes between frames.
 
 Crossroad vehicle counting flowchart
 
